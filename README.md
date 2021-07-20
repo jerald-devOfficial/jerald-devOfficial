@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jerald-devOfficial)
+
 <p align="center">
   <img src="jerald_io.png" alt="JERALD.IO Logo"/>
 </p>
@@ -107,6 +109,8 @@ function Welcome() {
   )
 }
 ```
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y06e2KFCG48qwNMGK2/giphy.gif" alt="high in coding"/>
