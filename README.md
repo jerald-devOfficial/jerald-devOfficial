@@ -31,14 +31,16 @@ const skills = {
   platforms :["Firebase", "Heroku", "Github Pages", "Vercel"],
 }
 
-const devIsCoding = 'jerald-devOfficial';
+const dev = 'jerald-devOfficial';
 
 export default function Welcome() {
   const [loading, setLoading] = useState(false);
   const [status, setStatus] = useState('');
+  const [devIsCoding, setDevIsCoding] = useState(false);
 
   useEffect(() => {
     setLoading(true);
+    setDevIsCoding(true);
     
     if(devIsCoding) {
       setStatus('Dev is Awesome!');
@@ -50,7 +52,7 @@ export default function Welcome() {
       {loading
         <div>
       
-          <h1>Hi, I'm {devIsCoding}, a {skills.techStack}!</h1>
+          <h1>Hi, I'm {dev}, a {skills.techStack}!</h1>
         
           <h3>
             I code with these languages 
