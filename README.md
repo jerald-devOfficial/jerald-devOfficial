@@ -44,7 +44,7 @@ function Welcome() {
       {loading
         <div>
       
-          <h1>Hi, I'm {devIsCoding}</h1>
+          <h1>Hi, I'm {devIsCoding}, a {skills.techStack}!</h1>
         
           <h3>
             I code with these languages 
