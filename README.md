@@ -14,11 +14,11 @@ const skills = {
   
   languages :["JavaScript", "C", "C++"],
 
-  IDE       :["VS Code", "Brackets", "Sublime", "PHPStorm"],
+  IDE       :["VS Code", "Brackets", "Sublime", "PHPStorm", "Atom"],
 
   jsStacks  :["ReactJs", "NodeJs", "ExpressJs", "EJS", "PugJs"],
   
-  cssFw     :["MaterialUI", "Bootstrap", "TailwindCSS", "Materializecss"],
+  cssFw     :["MaterialUI", "Bootstrap", "TailwindCSS", "Materializecss", "SASS/SCSS"],
 
   databases :["Firebase", "MongoDB", "MySQL", "FILE I/0"],
 
