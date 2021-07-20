@@ -9,7 +9,7 @@
 </p>
 <h2 align="center">Hi, 👋  &nbsp; I am Jerald Baroro</h2>
 
-<hr>
+<br>
 
 ```jsx
 import React, {useState, useEffect} from 'react';
