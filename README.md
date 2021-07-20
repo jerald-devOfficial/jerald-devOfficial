@@ -33,7 +33,7 @@ const skills = {
 
 const devIsCoding = 'jerald-devOfficial';
 
-function Welcome() {
+export default function Welcome() {
   const [loading, setLoading] = useState(false);
   const [status, setStatus] = useState('');
 
