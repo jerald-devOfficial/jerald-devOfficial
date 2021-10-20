@@ -47,71 +47,69 @@ export default function Welcome() {
   }, [devIsCoding, status]);
 
   return (
-    <>
-      {loading && (
-        <div>
-          <h1>
-            Hi, I'm {dev}, a {skills.techStack}!
-          </h1>
+    loading && (
+      <div>
+        <h1>
+          Hi, I'm {dev}, a {skills.techStack}!
+        </h1>
 
-          <h3>
-            I code with these languages
-            {skills.languages.map((language, index) => (
-              <ul key={index}>
-                <li>{language}</li>
-              </ul>
-            ))}
-          </h3>
+        <h3>
+          I code with these languages
+          {skills.languages.map((language, index) => (
+            <ul key={index}>
+              <li>{language}</li>
+            </ul>
+          ))}
+        </h3>
 
-          <h3>
-            My current JavaScript stacks are
-            {skills.jsStacks.map((stack, index) => (
-              <ul key={index}>
-                <li>{stack}</li>
-              </ul>
-            ))}
-          </h3>
+        <h3>
+          My current JavaScript stacks are
+          {skills.jsStacks.map((stack, index) => (
+            <ul key={index}>
+              <li>{stack}</li>
+            </ul>
+          ))}
+        </h3>
 
-          <h3>
-            The CSS Frameworks I used/use are
-            {skills.cssFw.map((css, index) => (
-              <ul key={index}>
-                <li>{css}</li>
-              </ul>
-            ))}
-          </h3>
+        <h3>
+          The CSS Frameworks I used/use are
+          {skills.cssFw.map((css, index) => (
+            <ul key={index}>
+              <li>{css}</li>
+            </ul>
+          ))}
+        </h3>
 
-          <h3>
-            I have tried using IDEs like
-            {skills.IDE.map((ide, index) => (
-              <ul key={index}>
-                <li>{ide}</li>
-              </ul>
-            ))}
-          </h3>
+        <h3>
+          I have tried using IDEs like
+          {skills.IDE.map((ide, index) => (
+            <ul key={index}>
+              <li>{ide}</li>
+            </ul>
+          ))}
+        </h3>
 
-          <h3>
-            The databases I used/use are
-            {skills.databases.map((db, index) => (
-              <ul key={index}>
-                <li>{db}</li>
-              </ul>
-            ))}
-          </h3>
+        <h3>
+          The databases I used/use are
+          {skills.databases.map((db, index) => (
+            <ul key={index}>
+              <li>{db}</li>
+            </ul>
+          ))}
+        </h3>
 
-          <h3>
-            And I have hosted to these platforms:
-            {skills.platforms.map((platform, index) => (
-              <ul key={index}>
-                <li>{platform}</li>
-              </ul>
-            ))}
-          </h3>
+        <h3>
+          And I have hosted to these platforms:
+          {skills.platforms.map((platform, index) => (
+            <ul key={index}>
+              <li>{platform}</li>
+            </ul>
+          ))}
+        </h3>
 
-          <h3>So if you see me coding, cheer me up with &quot;{status}&quot;!</h3>
-        </div>
-      )}
-    </>
+        <h3>So if you see me coding, cheer me up with &quot;{status}&quot;!</h3>
+      </div>
+    )
   );
 }
 ```
