@@ -12,24 +12,23 @@
 <br>
 
 ```jsx
-import React, {useState, useEffect} from 'react';
+import React, { useState, useEffect } from 'react';
 
 const skills = {
+  techStack: 'MERN FullStack Developer',
 
-  techStack : "MERN FullStack Developer",
-  
-  languages :["JavaScript", "C", "C++"],
+  languages: ['JavaScript', 'C', 'C++'],
 
-  IDE       :["VS Code", "Brackets", "Sublime", "PHPStorm", "Atom"],
+  IDE: ['VS Code', 'Brackets', 'Sublime', 'PHPStorm', 'Atom'],
 
-  jsStacks  :["ReactJs", "NodeJs", "ExpressJs", "EJS", "PugJs"],
-  
-  cssFw     :["MaterialUI", "Bootstrap", "TailwindCSS", "Materializecss", "SASS/SCSS"],
+  jsStacks: ['ReactJs', 'NodeJs', 'ExpressJs', 'EJS', 'PugJs'],
 
-  databases :["Firebase", "MongoDB", "MySQL", "FILE I/0"],
+  cssFw: ['MaterialUI', 'Bootstrap', 'TailwindCSS', 'Materializecss', 'SASS/SCSS'],
 
-  platforms :["Firebase", "Heroku", "Github Pages", "Vercel"],
-}
+  databases: ['Firebase', 'MongoDB', 'MySQL', 'FILE I/0'],
+
+  platforms: ['Firebase', 'Heroku', 'Github Pages', 'Vercel']
+};
 
 const dev = 'jerald-devOfficial';
 
@@ -41,78 +40,79 @@ export default function Welcome() {
   useEffect(() => {
     setLoading(true);
     setDevIsCoding(true);
-    
-    if(devIsCoding) {
+
+    if (devIsCoding) {
       setStatus('Dev is Awesome!');
     } else setStatus('Dev is playing something.');
   }, [devIsCoding, status]);
 
   return (
     <>
-      {loading &&
-        (<div>
-      
-          <h1>Hi, I'm {dev}, a {skills.techStack}!</h1>
-        
+      {loading && (
+        <div>
+          <h1>
+            Hi, I'm {dev}, a {skills.techStack}!
+          </h1>
+
           <h3>
-            I code with these languages 
+            I code with these languages
             {skills.languages.map((language, index) => (
               <ul key={index}>
                 <li>{language}</li>
               </ul>
             ))}
           </h3>
-      
+
           <h3>
-            My current JavaScript stacks are 
+            My current JavaScript stacks are
             {skills.jsStacks.map((stack, index) => (
               <ul key={index}>
                 <li>{stack}</li>
               </ul>
             ))}
           </h3>
-          
+
           <h3>
-            The CSS Frameworks I used/use are 
+            The CSS Frameworks I used/use are
             {skills.cssFw.map((css, index) => (
               <ul key={index}>
                 <li>{css}</li>
               </ul>
             ))}
           </h3>
-          
+
           <h3>
-            I have tried using IDEs like 
+            I have tried using IDEs like
             {skills.IDE.map((ide, index) => (
               <ul key={index}>
                 <li>{ide}</li>
               </ul>
             ))}
           </h3>
-          
+
           <h3>
-            The databases I used/use are 
+            The databases I used/use are
             {skills.databases.map((db, index) => (
               <ul key={index}>
                 <li>{db}</li>
               </ul>
             ))}
           </h3>
-          
+
           <h3>
-            And I have hosted to these platforms:  
+            And I have hosted to these platforms:
             {skills.platforms.map((platform, index) => (
               <ul key={index}>
                 <li>{platform}</li>
               </ul>
             ))}
           </h3>
-      
+
           <h3>So if you see me coding, cheer me up with &quot;{status}&quot;!</h3>
-        </div>)
-      }
+        </div>
+      )}
     </>
-  )
+  );
 }
 ```
 
