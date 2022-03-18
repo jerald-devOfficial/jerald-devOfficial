@@ -27,7 +27,7 @@
 ![MaterialUi](https://img.shields.io/badge/-MaterialUI-%231a202c?style=flat-square&logo=mui)
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
