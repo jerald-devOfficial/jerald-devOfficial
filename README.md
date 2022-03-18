@@ -1,6 +1,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jerald-devOfficial.jerald-devOfficial)
 [![Linkedin Badge](https://img.shields.io/badge/-Jerald%20Baroro-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jerald-baroro-562aab20a/)](https://www.linkedin.com/in/jerald-baroro-562aab20a/)
-[![Twitter Badge](http://img.shields.io/badge/-@spaueOfficial-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VedantKhairnar3)](https://twitter.com/@spaueOfficial) 
+[![Telegram Badge](https://img.shields.io/badge/-@spaue64-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/@spaue64 "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@spaueOfficial-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=spaueOfficial "Follow on Twitter")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/spaueOfficial "Connect on Facebook")
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
@@ -27,6 +29,8 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&layout=compact" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
+
+[![Profile last updated](https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial/master?label=Last%20updated&style=flat)](https://github.com/jerald-devOfficial/jerald-devOfficial/commits)
 
 <!---
 jerald-devOfficial/jerald-devOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
