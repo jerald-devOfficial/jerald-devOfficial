@@ -30,7 +30,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&layout=compact" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
 
-[![Profile last updated](https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial/master?label=Last%20updated&style=flat)](https://github.com/jerald-devOfficial/jerald-devOfficial/commits)
+[![Profile last updated](https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial?label=Last%20updated&style=flat)](https://github.com/jerald-devOfficial/jerald-devOfficial/commits)
 
 <!---
 jerald-devOfficial/jerald-devOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
