@@ -8,9 +8,6 @@
   <img src="jerald_io.png" alt="JERALD.IO Logo"/>
 </p>
 <h2 align="center">Hi, 👋  &nbsp; I am Jerald Baroro</h2>
-
-<br>
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -24,9 +21,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&hide=TeX&layout=compact&align=center)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&hide=TeX&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
  
 
 <!---
