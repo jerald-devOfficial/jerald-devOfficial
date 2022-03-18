@@ -49,7 +49,7 @@
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&layout=compact" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
+<img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
 
 <br>
 
