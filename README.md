@@ -21,7 +21,7 @@
 - 🔭 I’m also currently working on building a VPN application built with Mithril.js + MobX
 - 🌱 I’m currently learning Typescript and Solidity &nbsp; ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
