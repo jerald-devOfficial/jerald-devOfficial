@@ -4,10 +4,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
-<h6 align="left">👋 Hi, I'm Jerald!</h6>
-<p align="right">
-  <img src="jerald_io.png" alt="JERALD.IO Logo" height="50px"/>
-</p>
+<h4 align="left">👋 Hi, I'm Jerald!</h4>
+<img align="right" src="jerald_io.png" alt="JERALD.IO Logo" height="20px"/>
 
 - 🔭 I’m currently working on ReactJS + Typescript Website for Australian client
 - 🔭 I’m also currently working on building a VPN application built with Mithril.js + MobX
@@ -27,12 +25,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br>
-<a align="center" href="https://github.com/jerald-dev-Official/github-readme-stats">
+<a align="left" href="https://github.com/jerald-dev-Official/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&layout=compact" />
 </a>
-<p align="center">
+<a align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
-</p>
+</a>
  
 
 <!---
