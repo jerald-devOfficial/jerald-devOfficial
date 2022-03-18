@@ -35,7 +35,7 @@
 ![MUI](https://img.shields.io/badge/MUI-1572B6?style=flat-square&logo=mui&logoColor=white)
 
 ![C](https://img.shields.io/badge/-1572B6?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-1572B6?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
