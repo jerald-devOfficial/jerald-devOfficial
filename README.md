@@ -7,7 +7,7 @@
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
 <h4 align="left">👋 Hi, I'm Jerald!</h4>
-<img align="right" src="jerald_io.png" alt="JERALD.IO Logo" height="20px"/>
+<img align="right" src="jerald_io.png" alt="JERALD.IO Logo" height="50px"/>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -50,8 +50,6 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
-
-<br>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial?label=Last%20updated&style=flat)](https://github.com/jerald-devOfficial/jerald-devOfficial/commits)
 
