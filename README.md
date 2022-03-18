@@ -17,9 +17,9 @@
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat-square&logo=DuckDuckGo&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white)
 
-- 🔭 I’m currently working on ReactJS + Typescript Website for Australian client
-- 🔭 I’m also currently working on building a VPN application built with Mithril.js + MobX
-- 🌱 I’m currently learning Typescript and Solidity ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
+  🔭 I’m currently working on ReactJS + Typescript Website for Australian client
+  🔭 I’m also currently working on building a VPN application built with Mithril.js + MobX
+  🌱 I’m currently learning Typescript and Solidity ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
 
 ## ⚡ Technologies
 
