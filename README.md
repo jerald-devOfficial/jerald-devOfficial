@@ -4,7 +4,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
-<h6 align="center">👋 Hi, I'm Jerald!</h6>
+<h6 align="left">👋 Hi, I'm Jerald!</h6>
+<p align="right">
+  <img src="jerald_io.png" alt="JERALD.IO Logo" height="50px"/>
+</p>
 
 - 🔭 I’m currently working on ReactJS + Typescript Website for Australian client
 - 🔭 I’m also currently working on building a VPN application built with Mithril.js + MobX
