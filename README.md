@@ -1,3 +1,4 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jerald-devOfficial.jerald-devOfficial)
 [![Linkedin Badge](https://img.shields.io/badge/-Jerald%20Baroro-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jerald-baroro-562aab20a/)](https://www.linkedin.com/in/jerald-baroro-562aab20a/)
 [![Twitter Badge](http://img.shields.io/badge/-@spaueOfficial-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VedantKhairnar3)](https://twitter.com/@spaueOfficial) 
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
@@ -23,16 +24,10 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jerald-devOfficial.jerald-devOfficial)
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
-
 <p align="center">
-  <img src="https://media.giphy.com/media/Y06e2KFCG48qwNMGK2/giphy.gif" alt="high in coding"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&hide=TeX&layout=compact)
 </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
 
 <!---
 jerald-devOfficial/jerald-devOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
