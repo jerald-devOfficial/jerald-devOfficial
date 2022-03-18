@@ -21,8 +21,13 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&hide=TeX&layout=compact)
+<br>
+<a href="https://github.com/jerald-dev-Official/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerald-devOfficial&repo=github-readme-stats" />
+</a>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
+</p>
  
 
 <!---
