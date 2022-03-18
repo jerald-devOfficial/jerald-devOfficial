@@ -8,6 +8,7 @@
 
 <h4 align="left">👋 Hi, I'm Jerald!</h4>
 <img align="right" src="jerald_io.png" alt="JERALD.IO Logo" height="20px"/>
+
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
