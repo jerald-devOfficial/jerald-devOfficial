@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jerald-devOfficial)
 [![Linkedin Badge](https://img.shields.io/badge/-Jerald%20Baroro-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jerald-baroro-562aab20a/)](https://www.linkedin.com/in/jerald-baroro-562aab20a/)
 [![Twitter Badge](http://img.shields.io/badge/-@spaueOfficial-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VedantKhairnar3)](https://twitter.com/@spaueOfficial) 
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
@@ -11,108 +10,24 @@
 
 <br>
 
-```jsx
-import React, { useState, useEffect } from 'react';
+## ⚡ Technologies
 
-const skills = {
-  techStack: 'MERN FullStack Developer',
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-  languages: ['JavaScript', 'C', 'C++'],
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
-  IDE: ['VS Code', 'Brackets', 'Sublime', 'PHPStorm', 'Atom'],
-
-  jsStacks: ['ReactJs', 'NodeJs', 'ExpressJs', 'EJS', 'PugJs'],
-
-  cssFw: ['MaterialUI', 'Bootstrap', 'TailwindCSS', 'Materializecss', 'SASS/SCSS'],
-
-  databases: ['Firebase', 'MongoDB', 'MySQL', 'FILE I/0'],
-
-  platforms: ['Firebase', 'Heroku', 'Github Pages', 'Vercel']
-};
-
-const dev = 'jerald-devOfficial';
-
-export default function Welcome() {
-  const [loading, setLoading] = useState(false);
-  const [status, setStatus] = useState('');
-  const [devIsCoding, setDevIsCoding] = useState(false);
-
-  useEffect(() => {
-    setLoading(true);
-    setDevIsCoding(true);
-
-    if (devIsCoding) {
-      setStatus('Dev is Awesome!');
-    } else setStatus('Dev is playing something.');
-  }, [devIsCoding, status]);
-
-  return (
-    loading && (
-      <div>
-        <h1>
-          Hi, I'm {dev}, a {skills.techStack}!
-        </h1>
-
-        <h3>
-          I code with these languages
-          {skills.languages.map((language, index) => (
-            <ul key={index}>
-              <li>{language}</li>
-            </ul>
-          ))}
-        </h3>
-
-        <h3>
-          My current JavaScript stacks are
-          {skills.jsStacks.map((stack, index) => (
-            <ul key={index}>
-              <li>{stack}</li>
-            </ul>
-          ))}
-        </h3>
-
-        <h3>
-          The CSS Frameworks I used/use are
-          {skills.cssFw.map((css, index) => (
-            <ul key={index}>
-              <li>{css}</li>
-            </ul>
-          ))}
-        </h3>
-
-        <h3>
-          I have tried using IDEs like
-          {skills.IDE.map((ide, index) => (
-            <ul key={index}>
-              <li>{ide}</li>
-            </ul>
-          ))}
-        </h3>
-
-        <h3>
-          The databases I used/use are
-          {skills.databases.map((db, index) => (
-            <ul key={index}>
-              <li>{db}</li>
-            </ul>
-          ))}
-        </h3>
-
-        <h3>
-          And I have hosted to these platforms:
-          {skills.platforms.map((platform, index) => (
-            <ul key={index}>
-              <li>{platform}</li>
-            </ul>
-          ))}
-        </h3>
-
-        <h3>So if you see me coding, cheer me up with &quot;{status}&quot;!</h3>
-      </div>
-    )
-  );
-}
-```
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
 
