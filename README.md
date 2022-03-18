@@ -5,7 +5,7 @@
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
 <p align="center">
-  <img src="jerald_io.png" alt="JERALD.IO Logo"/>
+  <img src="jerald_io.png" alt="JERALD.IO Logo" height="50px" width="100%"/>
 </p>
 <h2 align="center">Hi, 👋  &nbsp; I am Jerald Baroro</h2>
 ## ⚡ Technologies
