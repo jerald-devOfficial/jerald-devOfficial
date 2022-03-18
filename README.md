@@ -34,8 +34,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![MUI](https://img.shields.io/badge/MUI-1572B6?style=flat-square&logo=mui&logoColor=white)
 
-![C](https://img.shields.io/badge/c-1572B6?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-1572B6?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/style=flat-square&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
