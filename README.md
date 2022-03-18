@@ -4,10 +4,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
-<p align="center">
-  <img src="jerald_io.png" alt="JERALD.IO Logo" height="50px"/>
-</p>
-<h2 align="center">Hi, 👋  &nbsp; I am Jerald Baroro</h2>
+<h6 align="center">👋 Hi, I'm Jerald!</h6>
+
+- 🔭 I’m currently working on ReactJS + Typescript Website for Australian client
+- 🔭 I’m also currently working on building a VPN application built with Mithril.js + MobX
+- 🌱 I’m currently learning Typescript and Solidity
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
