@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br>
 <a href="https://github.com/jerald-dev-Official/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jerald-devOfficial&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&layout=compact" />
 </a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&theme=gotham" alt="jerald-devOfficial" />
