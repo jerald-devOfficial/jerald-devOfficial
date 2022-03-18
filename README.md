@@ -16,6 +16,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=flat-square&logo=DuckDuckGo&logoColor=white)
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
 - 🔭 I’m currently working on ReactJS + Typescript Website for Australian client
 - 🔭 I’m also currently working on building a VPN application built with Mithril.js + MobX
