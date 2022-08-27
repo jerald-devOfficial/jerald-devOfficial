@@ -50,7 +50,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 
 ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=CI/CD)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&layout=compact" />
