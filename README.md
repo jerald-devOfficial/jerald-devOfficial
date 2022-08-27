@@ -49,6 +49,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 
+![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=CI/CD)
+
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerald-devOfficial&layout=compact" />
 <img src="https://github-readme-stats.vercel.app/api?username=jerald-devOfficial&show_icons=true&hide=issues,contribs" alt="jerald-devOfficial" />
