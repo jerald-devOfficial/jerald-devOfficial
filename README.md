@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
-<h4 align="left">👋 Hi, I'm Jerald!</h4>
+<h4 align="left">👋 Hi, I'm <strong>Jerald!</strong> I'm a <strong>Software Engineer Architect</strong></h4>
 <img align="right" src="jerald_io.png" alt="JERALD.IO Logo" height="50px"/>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
