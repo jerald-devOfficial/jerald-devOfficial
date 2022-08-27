@@ -18,9 +18,7 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
-- 🔭 I’m currently working on ReactJS + Typescript Website for Australian client
-- 🔭 I’m also currently working on building a VPN application using Mithril.js + MobX
-- 🌱 I’m currently learning Typescript and Solidity &nbsp; ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=Udemy&logoColor=white)
+- 🔭 I’m currently working on NextJS + Typescript + MongoDB e-learning web application for an Australian client
 
 #### ⚡ Technologies
 
@@ -28,6 +26,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-Typescript-1572B6?style=flat-square&logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=nextjs&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat-square&logo=pug&logoColor=A86454)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
