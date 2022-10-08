@@ -18,7 +18,9 @@
 ![Google](https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
-- 🔭 I’m currently working on NextJS + Typescript + MongoDB e-learning web application for an Australian client
+- 🔭 Now a Cheif of Technology Officer at Woop, managing the development, as well as the main developer of Woop!
+- 🔭 Strongly implementing Next.js, TypeScript, Node.js, Express.js, MongoBD, and choosing between Express.js and GraphQL.
+- 🔭 Highly motivated to select only those trending and latest technologies for full-stack web development.
 
 #### ⚡ Technologies
 
