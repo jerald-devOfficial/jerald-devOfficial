@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
-<h4 align="left">👋 Hi, I'm <strong>Jerald!</strong> I'm a <strong>Software Engineer Architect</strong></h4>
+<h4 align="left">👋 Hi, I'm <strong>Jerald!</strong> I'm a <strong>Software Engineer Architect</strong> and a <strong>CTO at WOOP Scholarship</strong></h4>
 <img align="right" src="jerald_io.png" alt="JERALD.IO Logo" height="50px"/>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
@@ -19,8 +19,8 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
 - 🔭 Now a Cheif of Technology Officer at Woop, managing the development, as well as the main developer of Woop!
-- 🔭 Strongly implementing Next.js, TypeScript, Node.js, Express.js, MongoBD, and choosing between Express.js and GraphQL.
-- 🔭 Highly motivated to select only those trending and latest technologies for full-stack web development.
+- 💡 Strongly implementing Next.js, TypeScript, Node.js, Express.js, MongoBD, and choosing between Express.js and GraphQL.
+- 🚩 Highly motivated to select only those trending and latest technologies for full-stack web development.
 
 #### ⚡ Technologies
 
