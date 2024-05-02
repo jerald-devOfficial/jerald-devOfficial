@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
-<h4 align="left">👋 Hi, I'm <strong>Jerald!</strong> I'm a <strong>Software Engineer Architect</strong> and I'm currently <strong>looking for work!</strong></h4>
+<h4 align="left">👋 Hi, I'm <strong>Jerald!</strong> I'm a <strong>Software Engineer Architect!</h4>
 <img align="right" src="jerald_io.png" alt="JERALD.IO Logo" height="50px"/>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
@@ -19,7 +19,7 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 
 - 🔭 After a few months of taking a break from coding, now I'm back to hustle what I missed doing I love.
-- 💡 Strongly implementing Next.js, TypeScript, Node.js, Express.js, MongoDB, and choosing between Express.js and GraphQL.
+- 💡 NextJS 14 App Router, TS, MERN, AWS CICD, learning NestJS, and will be doing React Native.
 - 🚩 Highly motivated to select only those trending and latest technologies for full-stack web development.
 
 #### ⚡ Technologies
