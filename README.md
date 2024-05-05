@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@spaueofficial" target="blank"><img src="https://img.shields.io/twitter/follow/@spaueofficial?logo=twitter&style=for-the-badge" alt="@spaueofficial" /></a> </p>
 
-- 🔭 I’m currently working on **foreign client projects involving DevOp, Next.js, and React Native projects.**
+- 🔭 I’m currently working on **foreign client projects involving DevOps, Next.js, and React Native projects.**
 
 - 🌱 I’m currently learning **NestJS, DevOps, full stack latest trends with Next.js, and React Native.**
 
