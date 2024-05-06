@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerald-devofficial&label=Profile%20views&color=0e75b6&style=flat" alt="jerald-devofficial" /> </p>
 
-- 🔭 I’m currently doing with **DevOps, Next.js, Web3, and React Native projects.**
+- 🔭 I’m currently doing **DevOps, Next.js, Web3, and React Native projects.**
 
 - 🌱 I’m currently learning **NestJS, DevOps, full stack latest trends with Next.js, and React Native.**
 
