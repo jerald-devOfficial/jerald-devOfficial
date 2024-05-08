@@ -67,6 +67,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
+
+<br>
+<br>
+<br>
+
 [![Profile last updated](https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial?label=Last%20updated&style=flat)](https://github.com/jerald-devOfficial/jerald-devOfficial/commits)
 
 
