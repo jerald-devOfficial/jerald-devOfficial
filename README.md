@@ -4,7 +4,7 @@
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
 <h1 align="left">Hi 👋, I'm Jerald</h1>
-<h4 align="left">I'm a passionate <strong>Senior JavaScript Software Engineer</strong> from the Philippines!</h4>
+<h4 align="left">I'm a passionate **Senior JavaScript Software Engineer** from the Philippines!</h4>
 
 
 <br>
