@@ -36,11 +36,11 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/jerald-devOfficial/jerald-devOfficial/commits">
-    <img src="https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial?label=Last%20updated&style=flat" alt="Profile last updated" style="flex-shrink: 0;">
+    <img src="https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial?label=Last%20updated&style=flat" alt="Profile last updated">
   </a>
-  <img src="https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce" alt="Made with love in Philippines" style="flex-shrink: 0;">
+  <img src="https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce" alt="Made with love in Philippines">
 </p>
 
 
