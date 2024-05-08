@@ -1,8 +1,4 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jerald-devOfficial.jerald-devOfficial)
-[![Linkedin Badge](https://img.shields.io/badge/-Jerald%20Baroro-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jerald-baroro-562aab20a/)](https://www.linkedin.com/in/jerald-baroro-562aab20a/)
-[![Telegram Badge](https://img.shields.io/badge/-@spaue64-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/@spaue64 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@spaueOfficial-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=spaueOfficial "Follow on Twitter")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/spaueOfficial "Connect on Facebook")
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 
 <h1 align="center">Hi 👋, I'm Jerald</h1>
@@ -28,9 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@spaueofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@spaueofficial" height="30" width="40" /></a>
+<a href="https://twitter.com/spaueofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spaueofficial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jerald-baroro-562aab20a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerald-baroro-562aab20a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16655357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16655357" height="30" width="40" /></a>
+<a href="https://t.me/@spaue64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="@spaue64" height="30" width="40" /></a>
 <a href="https://fb.com/spaueofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spaueofficial" height="30" width="40" /></a>
 </p>
 
