@@ -39,7 +39,7 @@
 
 
 
-<p style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<p align="justify">
   <a href="https://github.com/jerald-devOfficial/jerald-devOfficial/commits" style="flex: 1; display: flex; justify-content: flex-start;">
     <img src="https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial?label=Last%20updated&style=flat" alt="Profile last updated" style="flex-shrink: 0;">
   </a>
