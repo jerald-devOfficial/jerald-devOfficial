@@ -39,10 +39,13 @@
 
 
 
-<p style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/jerald-devOfficial/jerald-devOfficial/commits"><img src="https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial?label=Last%20updated&style=flat" alt="Profile last updated"></a>
-  <img src="https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce" alt="Made with love in Philippines">
+<p style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://github.com/jerald-devOfficial/jerald-devOfficial/commits" style="flex-grow: 1; display: flex; justify-content: flex-start;">
+    <img src="https://img.shields.io/github/last-commit/jerald-devOfficial/jerald-devOfficial?label=Last%20updated&style=flat" alt="Profile last updated" style="flex-shrink: 0;">
+  </a>
+  <img src="https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce" alt="Made with love in Philippines" style="flex-shrink: 0;">
 </p>
+
 <!---
 jerald-devOfficial/jerald-devOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
