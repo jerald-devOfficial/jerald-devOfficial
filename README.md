@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jeraldbaroro.xyz](https://jeraldbaroro.xyz)
 
-- 💬 Ask me about **react, next.js, AWS DevOps and full stack services.**
+- 💬 Ask me about **React, Next.js, AWS DevOps and full stack services.**
 
 - 📫 How to reach me **spaueOfficial@gmail.com**
 
