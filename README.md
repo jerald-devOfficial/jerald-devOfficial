@@ -32,6 +32,8 @@
 <a href="https://fb.com/spaueofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spaueofficial" height="30" width="40" /></a>
 </p>
 
+<br>
+<br>
 <h3 align="left">Languages and Tools</h3>
 
 #### ⚡ Technologies
