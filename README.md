@@ -1,11 +1,11 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jerald-devOfficial.jerald-devOfficial)
+![Profile Views](https://komarev.com/ghpvc/?username=jerald-devofficial&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
 <h1 align="center">Hi 👋, I'm Jerald</h1>
 <h4 align="center">I'm a passionate <strong>Senior JavaScript Software Engineer</strong>strong from the Philippines!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerald-devofficial&label=Profile%20views&color=0e75b6&style=flat" alt="jerald-devofficial" /> </p>
 
 <br>
 - 🔭 I’m currently doing **DevOps, Next.js, Web3, and React Native projects.**
