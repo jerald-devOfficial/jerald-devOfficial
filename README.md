@@ -3,8 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/jerald-devOfficial?label=Follow&style=social)](https://github.comjerald-devOfficial/?tab=follow)
 ![Made with love in Philippines](https://madewithlove.now.sh/ph?heart=true&colorA=%23de172b&colorB=%23124bce)
 
-<h1 align="center">Hi 👋, I'm Jerald</h1>
-<h4 align="center">I'm a passionate <strong>Senior JavaScript Software Engineer</strong>strong from the Philippines!</h4>
+<h1 align="left">Hi 👋, I'm Jerald</h1>
+<h4 align="left">I'm a passionate <strong>Senior JavaScript Software Engineer</strong>strong from the Philippines!</h4>
 
 
 <br>
