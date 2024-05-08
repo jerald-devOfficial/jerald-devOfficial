@@ -36,9 +36,9 @@
 </p>
 
 <br>
-<h3 align="left">Languages and Tools</h3
-                                      
-<br>
+<h3 align="left">Languages and Tools</h3>
+
+
 #### ⚡ Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
