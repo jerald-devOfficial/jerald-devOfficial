@@ -8,6 +8,7 @@
 
 
 <br>
+
 - 🔭 I’m currently doing **DevOps, Next.js, Web3, and React Native projects.**
 
 - 🌱 I’m currently learning **NestJS, DevOps, full stack latest trends with Next.js, and React Native.**
