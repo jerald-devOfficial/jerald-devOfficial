@@ -7,6 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerald-devofficial&label=Profile%20views&color=0e75b6&style=flat" alt="jerald-devofficial" /> </p>
 
+<br>
 - 🔭 I’m currently doing **DevOps, Next.js, Web3, and React Native projects.**
 
 - 🌱 I’m currently learning **NestJS, DevOps, full stack latest trends with Next.js, and React Native.**
@@ -23,6 +24,7 @@
 
 - ⚡ Fun fact **I am funny, because I can be funny too, heh!**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/spaueofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spaueofficial" height="30" width="40" /></a>
@@ -32,7 +34,6 @@
 <a href="https://fb.com/spaueofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="spaueofficial" height="30" width="40" /></a>
 </p>
 
-<br>
 <br>
 <h3 align="left">Languages and Tools</h3>
 
