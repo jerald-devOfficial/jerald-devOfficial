@@ -105,7 +105,7 @@
 
 <br>
 
-<p align="center">
+<p align="left">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
