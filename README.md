@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently doing **DevOps, Next.js, Web3, and React Native projects.**
 
-- 🌱 I’m currently learning **NestJS, DevOps, full stack latest trends with Next.js, and React Native.**
+- 🌱 I’m currently learning **Blockchain, Solidity, and React Native.**
 
 - 👯 I’m looking to collaborate on [Wraglet](https://github.com/Wraglet/wraglet)
 
 - 👨‍💻 All of my projects are available at [https://jeraldbaroro.xyz](https://jeraldbaroro.xyz)
 
-- 💬 Ask me about **React, Next.js, AWS DevOps and full stack services.**
+- 💬 Ask me about **React, Next.js, AWS DevOps, Soldity, Web3, and full stack services.**
 
 - 📫 How to reach me **spaueOfficial@gmail.com**
 
