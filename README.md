@@ -8,9 +8,9 @@
 
 <br>
 
-- 🔭 I’m currently doing **DevOps, Next.js, Web3, and React Native projects.**
+- 🔭 I’m currently doing **DevOps, Next.js, Web3, Solidity, and React Native projects.**
 
-- 🌱 I’m currently learning **Blockchain, Solidity, and React Native.**
+- 🌱 I’m currently learning **Python and Java.**
 
 - 👯 I’m looking to collaborate on [Wraglet](https://github.com/Wraglet/wraglet)
 
